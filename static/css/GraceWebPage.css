@@ -1,0 +1,42 @@
+body {
+  background-color: #37ff8b;
+  text-align: center;
+}
+
+h1 {
+  color: #42cafd;
+}
+
+p {
+  color: #ff1053;
+  font-size: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #9883E5;
+}
+
+button.minus {
+  background-color: #80CED7;
+  color: #C52184;
+  border-radius: 100%;
+  border: 1px solid;
+  cursor: pointer;
+}
+  button.plus {
+    background-color: #3185FC;
+    color: #FEFEFF;
+    border-radius: 100%;
+    border: 1px solid;
+    cursor: pointer;
+  }
+  button.reset {
+    background-color: #F72585;
+    color: #70F8BA;
+    border-radius: 100%;
+    border: 1px solid;
+    margin-top: 20px;
+    cursor: pointer;
+  }
